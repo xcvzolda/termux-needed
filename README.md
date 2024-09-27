@@ -1,7 +1,6 @@
 # How to use it
 Copy this command to termux
-# apt upgrade & pkg install wget & wget
-https://github.com/xcvzolda/termux-needed/blob/main/install.sh & ./install.sh
+# apt upgrade & pkg install wget & wget https://github.com/xcvzolda/termux-needed/blob/main/install.sh & ./install.sh
 # For copyright reasons here is the packages
 otter-browser (gui)
 W3m (browser with no gui)
